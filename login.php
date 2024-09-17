@@ -31,7 +31,7 @@
                                             </div>
                                             <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
 
-                                                <input type="submit" class="btn btn-primary" href="index.html">
+                                                <input type="submit" value="Login" class="btn btn-primary" href="index.html">
                                             </div>
                                         </form>
                                     </div>
