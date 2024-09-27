@@ -39,6 +39,7 @@
             </li>
         </ul>
     </nav>
+    <!-- this is a comment -->
     <div id="layoutSidenav">
         <div id="layoutSidenav_nav">
             <nav class="sb-sidenav accordion sb-sidenav-light" id="sidenavAccordion">
